@@ -1,5 +1,10 @@
+*.pt*
+/first_assigment/train*
+/uerc*
+/det*
+/dset*
 datasets/
-
+runs*/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
